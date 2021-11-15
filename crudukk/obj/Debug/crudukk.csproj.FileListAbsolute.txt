@@ -1,0 +1,12 @@
+D:\kelas 12\UKK OOP\crudukk\bin\Debug\crudukk.exe.config
+D:\kelas 12\UKK OOP\crudukk\bin\Debug\crudukk.exe
+D:\kelas 12\UKK OOP\crudukk\bin\Debug\crudukk.pdb
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.csprojAssemblyReference.cache
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.Properties.Resources.resources
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.csproj.GenerateResource.cache
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.csproj.CoreCompileInputs.cache
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.exe
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.pdb
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.CRUD.resources
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.FormLogin.resources
+D:\kelas 12\UKK OOP\crudukk\obj\Debug\crudukk.FormRegister.resources
